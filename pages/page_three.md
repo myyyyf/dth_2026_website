@@ -12,7 +12,7 @@ Historians often work with records from various resources. A researcher studying
 
 **Licence:** OpenRefine uses the BSD 3-Clause Licence, allowing modification and redistribution with required copyright notices.
 
-**Last change:** Its GitHub repository was last updated on October 19, 2026, which indicates recent development activity.
+**Last change:** The latest commit on the master branch was made on October 23, 2026, fixing command URLs for path-prefixed installations.
 
 **People:** According to official statistics, there were 16 contributors active during the past year ending July 16, 2026.
 
