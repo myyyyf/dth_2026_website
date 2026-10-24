@@ -1,12 +1,20 @@
-# Page two
+# What Are the Disadvantages of Open Source Software?
 
-## This is the headline of your second page
+Open source software also has several disadvantages, particularly regarding maintenance, security and technical support. These problems may affect its reliability and make it less reliable for individuals and institutions to depend on certain projects over time.
 
-The text on this page is written in the file **pages/page_two.md**. The first line, starting with a single #, becomes the heading in the banner.
+## Maintenance
 
-There is only one HTML file, index.html. It holds the frame around the text: the navigation, the banner and the footer. The link in the navigation decides which markdown file is shown inside the frame. The words themselves live in a markdown file, which is much quicker to write than HTML. Many websites work the same way: the content is kept separately from the page that displays it.
+Many open source projects are supported by volunteers who contribute their time maintaing softwares without regular payment. This work requires continuous input, which involves fixing bugs, updating features and ensuring compatibility with new systems. If developers lose interest or lack resources, a project would quickly become outdated or abandoned. This can be especially problematic for researchers who depend on the same tools throughout a long-term project.
 
-### Another headline
+## Security
 
-1. Numbered lists work too
-2. Just start the lines with numbers
+Public access to source code can help developers identify vulnerabilities, but it also means that potential attackers can make changes to the code. Security mostly depends on whether problems are discovered and fixed in time. In this sense, smaller projects with few active contributors may struggle to respond promptly, leaving users exposed to risks.
+
+## Technical Support
+
+Some open source projects have limited documentation or dedicated customer service. In such cases, users have to rely on community forums or solve technical problems themselves. For students without programming experience, this can make software extremely difficult to handle. It also costs institutions additionally for training staff or hiring specialists to maintain their systems.
+
+### Sources
+
+- [Open Source Initiative – Frequently Asked Questions](https://opensource.org/faq)
+- [Open Source Security Foundation – Official Website](https://openssf.org/)

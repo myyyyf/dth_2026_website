@@ -1,16 +1,20 @@
-# Page one
+# What Are the Advantages of Open Source Software?
 
-## This is the headline of your first page
+Open source software allows users to access, modify and share its source code under an open source licence. This gives individuals and institutions more control over the software they use, often without paying licence fees.
 
-This is the first paragraph. The first paragraph after a headline is displayed in a lighter font weight.
+## Transparency
 
-Everything you see here is written in the file **pages/page_one.md**. Change the text there, save, and reload the page. You can use **bold**, *italics*, [links](https://www.sdu.dk) and lists:
+Since the source code is publicly available, users can see how a program works and processes information. This is particularly useful in academic research, where understanding the methods behind results is of great importance. Developers can also review the code to identify errors and prevent security problems.
 
-- one item
-- another item
+## Flexibility
 
-### A smaller headline
+Users with programming skills can modify a program based on their needs, while others can benefit from improvements made by the community as well. [LibreOffice](https://www.libreoffice.org/), for example, provides free office applications that can be developed and improved by contributors. This allows students and universities to access useful tools without relying entirely on commercial providers.
 
-You can also add images from the assets folder:
+## Long-term Maintenance
 
-![The beach at Skagen](./assets/images/skagen.jpg)
+If the original developers abandon a project, other contributors can still continue working on its existing code. For historians who need to preserve and study digital materials over many years, this can help reduce dependence on a particular software provider.
+
+### Sources
+
+- [Open Source Initiative – The Open Source Definition](https://opensource.org/osd)
+- [LibreOffice – Official Website](https://www.libreoffice.org/)
